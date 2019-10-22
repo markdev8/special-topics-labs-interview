@@ -32,13 +32,16 @@ Q2: What is the answer?
 Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
 
 Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
+* _Mark_: I have always been interested in programming since my first experiences in middle school on TRS-80 machines. My senior year in high school I took a programming class, which was a brand new subject at the time. I wrote a quadratic formula program in Microsoft Extended Color BASIC on my TRS-80 Color Computer for extra credit, and the teacher accused me of plagiarizing. Not that I needed the extra credit, but I did have to defend myself on that.
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
+* _Mark_ : I'm not that big into travel. I like the feeling of home. As a college student I did live in France for six months - actually turned 21 in France. I would very much like to visit Montreal (again), Belgium, and Brazil.
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
+* _Mark_ : I don't have a favorite Beatle. Maybe I'll say Ringo Starr as a nod to Seth MacFarlane's ["I lean" joke](https://youtube.com/watch?v=bkgLVOzJqaM) in Family Guy: Something Something Darkside. My favorite Beatles song might be "I Saw Her Standing There". I have the original "Introducing the Beatles" album and as a kid was more crazy about a friend's record: "The Chipmunks Sing the Beatles". I picked that up cheap on CD years ago, for nostalgia's sake. As an adult, I prefer the Beatles' voices, it turns out.
 
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
-
+* _Mark_ : I have a couple of aquariums going with freshwater tropical fish. Two months ago I lost my darling Chloe, my little buddy, my little girl. I'm still working on getting over that one. She was a chocolate cocker spaniel with tan eyebrows and highlights at her feet. Even when she was feeling out of whack on our last walks in the park, people would smile at seeing her and tell me how pretty she was.  She was my sense of home.  I also have a small cat, kind of a cross between orange and gray tabby. She only has one eye, but that doesn't stop her from catching mice.
 
 ## Submitting Your Work
 Once I have merged your pull request into my repo, please submit your repo along with a screenshot of your pull request in Blackboard.
